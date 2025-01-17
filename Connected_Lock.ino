@@ -43,7 +43,8 @@ struct {
 //           END RemoteXY include          //
 /////////////////////////////////////////////
 
-#define Led D2
+//define D2 as Led
+#define Led D2  
 
 void setup() 
 {
